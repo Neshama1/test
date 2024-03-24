@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.svg</file>
+        <file>logo.png</file>
+        <file>development-daniel-korpai-pKRNxEguRgM-unsplash.jpg</file>
+        <file>kirigami-daniel-korpai-pKRNxEguRgM-unsplash.jpg</file>
+        <file>kasts-dialog-148815_960_720.webp</file>
+        <file>menu-whatsapp-1411048_640.jpg</file>
+        <file>menu-whatsapp-892926_640.jpg</file>
+        <file>details-header.png</file>
+    </qresource>
+</RCC>

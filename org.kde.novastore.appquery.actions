@@ -1,0 +1,5 @@
+[org.kde.novastore.appquery.install]
+Name=Install action
+Description=Allow admin login
+Policy=auth_self
+Persistence=session

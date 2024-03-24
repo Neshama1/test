@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>MainMenu.qml</file>
+        <file>Categories.qml</file>
+        <file>MenuSubcategory.qml</file>
+        <file>AppsByCategory.qml</file>
+        <file>AppsBySubcategory.qml</file>
+        <file>Search.qml</file>
+        <file>Details.qml</file>
+        <file>Screenshots.qml</file>
+        <file>Percentage.qml</file>
+    </qresource>
+</RCC>
